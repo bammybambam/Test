@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-  printf("660710609 Patchara Taksinapinunt");
+  printf("Hello");
   return 0;
 }
